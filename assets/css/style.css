@@ -135,11 +135,13 @@ section {}
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
+    margin-bottom: 40px;
 }
 
 .steps {
     text-align: center;
-    background: #fce138
+    background: #fce138;
+    padding-top: 40px
 }
 
 .section-title {
