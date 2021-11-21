@@ -271,3 +271,28 @@
                     color: #fce138;
                 }
                 /* REACH OUT STYLES END */
+                
+                .top {
+                    background-image: url("../images/hero-bg.jpeg");
+                    height: 200px;
+                    background-size: cover;
+                    background-position: bottom;
+                    text-align: center;
+                    position: relative;
+                }
+                
+                .top h1 {
+                    font-size: 55px;
+                    color: #fce138;
+                    display: inline-block;
+                    border-bottom: 3px solid;
+                    position: absolute;
+                    right: 34%;
+                    bottom: 50%;
+                }
+                
+                .test {
+                    text-align: left;
+                    padding: 40px 5%;
+                    color: black;
+                }
