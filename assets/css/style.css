@@ -11,6 +11,9 @@
                 
                 header {
                     background-color: #39a6b2;
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
                 }
                 
                 header h1 {
@@ -19,7 +22,6 @@
                     color: #fce138;
                     text-decoration: none;
                     margin: 0;
-                    display: inline;
                 }
                 /* apply style to <header>*/
                 
@@ -28,7 +30,6 @@
                 }
                 
                 header nav {
-                    float: right;
                     margin: 7px 0;
                 }
                 
